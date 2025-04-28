@@ -1,8 +1,3 @@
-Perfetto, capito lo spirito!
- Allora ti scrivo un README **molto più leggero e diretto**, con un tono più “friendly”, che fa capire subito che hai semplicemente messo mano alla libreria per farla funzionare su Mac M1 e che sai risolvere problemi pratici quando serve.
-
-------
-
 # Segment Anything 2 Video for Label Studio – Mac M1 Quick Fix
 
 ## What is this?
